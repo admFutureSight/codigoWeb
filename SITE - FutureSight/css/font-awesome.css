@@ -1,0 +1,17 @@
+/* PARTE DOS ICONES DO "NOSSA EQUIPE" */
+
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-facebook-f:before,
+.fa-facebook:before {
+  content: "\f09a";
+}
+.fa-github:before {
+  content: "\f09b";
+}
+
+.fa-google-plus:before {
+  content: "\f0d5";
+}
+
